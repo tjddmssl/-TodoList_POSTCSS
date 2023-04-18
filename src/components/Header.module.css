@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #e6e6fa66;
+}
+
+.filters {
+  display: flex;
+}
+
+.filter {
+  font-size: 1.4rem;
+  margin: 1rem;
+  text-transform: capitalize;
+  background-color: transparent;
+  color: #e6e6fa;
+  opacity: 0.8;
+  font-weight: bold;
+}
+.filter:hover {
+  opacity: 1;
+  transform: scale(1.2);
+}
+.filter:focus {
+  opacity: 1;
+  transform: scale(1.2);
+  content: "";
+  display: block;
+  border-bottom: 1px solid #e6e6fa8e;
+}
