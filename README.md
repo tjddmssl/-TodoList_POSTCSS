@@ -1,4 +1,5 @@
 # My Todo App
+## 기존 My Todo App를 POSTCSS로 리팩토링
 ![스크린샷, 2023-04-18 03-55-09](https://user-images.githubusercontent.com/115976700/232583971-fe4912cd-1293-4252-b66b-8bd5434e61d9.png)
 
 **Todo 관리를 위한 웹 애플리케이션**
@@ -8,7 +9,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/JavScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=Styled-Components&logoColor=white"/></a>
+     <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=white"/></a>
   <div>
 
 ## Features
